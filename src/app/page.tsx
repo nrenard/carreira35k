@@ -22,8 +22,8 @@ export default function Home() {
             <h1>First Lesson to success</h1>
             <br />
             <p>
-              Let's go together until the success my friend the lesson teaches
-              you what's the power of a good approach.
+              Let&apos;s go together until the success my friend the lesson
+              teaches you what&apos;s the power of a good approach.
               <br />
               <br />
               <b>Lucas Wunder - Mentor & Especialista Tech</b>
