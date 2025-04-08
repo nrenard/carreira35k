@@ -32,11 +32,11 @@ export default function Home() {
 
           <iframe
             width="800"
-            height="500"
-            src="https://www.youtube.com/embed/hAygxfX4CWc?si=ie4N0cRjVSspN5oI"
+            height="450"
+            src="https://iframe.mediadelivery.net/embed/407326/97a55931-889a-4098-9e1a-bb5b75a0f131?autoplay=true"
             title="YouTube video player"
             frameBorder="0"
-            allow="accelerometer; autoplay;picture-in-picture;"
+            allow="autoplay; encrypted-media;allowfullscreen"
             referrerPolicy="strict-origin-when-cross-origin"
             allowFullScreen
           ></iframe>
