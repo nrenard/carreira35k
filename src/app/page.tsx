@@ -19,11 +19,12 @@ export default function Home() {
       <div className={styles.page}>
         <main className={styles.main}>
           <div className={styles.mainContentText}>
-            <h1>First Lesson to success</h1>
+            <h1>A Estratégia que os Devs Top 1% Usam</h1>
             <br />
             <p>
-              Let&apos;s go together until the success my friend the lesson
-              teaches you what&apos;s the power of a good approach.
+              Descubra o método que está transformando devs subvalorizados em
+              profissionais disputados e altamente pagos. <br /> Mesmo sem
+              inglês fluente.
               <br />
               <br />
               <b>Lucas Wunder - Mentor & Especialista Tech</b>

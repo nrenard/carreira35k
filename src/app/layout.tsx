@@ -10,8 +10,9 @@ const geistSans = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Carreira 35k",
-  description: "Carreira 35k",
+  title: "Método 35k Mês A Estratégia que os Devs Top 1% Usam | Carreira 35k",
+  description:
+    "Descubra o método que está transformando devs subvalorizados em profissionais disputados e altamente pagos — mesmo sem inglês fluente.",
 };
 
 export default function RootLayout({
