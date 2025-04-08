@@ -43,7 +43,16 @@ export default function Home() {
           ></iframe>
         </main>
       </div>
-      <footer className={styles.footer}>MIT - LICENSE</footer>
+      <footer className={styles.footer}>
+        <Image
+          className={styles.logo}
+          src="/logo.png"
+          alt="Next.js logo"
+          width={150}
+          height={60}
+          priority
+        />
+      </footer>
     </>
   );
 }
