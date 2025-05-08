@@ -41,6 +41,15 @@ export default function Home() {
             referrerPolicy="strict-origin-when-cross-origin"
             allowFullScreen
           ></iframe>
+
+          <div className={styles.buttonContent}>
+            <a
+              href="https://contato.carreira35k.com.br/plano-30-k-lucas-wunder"
+              target="__blank"
+            >
+              QUERO SER AVALIADO ANTES QUE AS VAGAS ACABEM!!!
+            </a>
+          </div>
         </main>
       </div>
       <footer className={styles.footer}>

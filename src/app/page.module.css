@@ -16,8 +16,17 @@
   margin-bottom: 30px;
 }
 
-.fakeVideo {
-  width: 800px;
-  height: 500px;
-  background: #fff;
+.buttonContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.buttonContent a {
+  border: 1px solid;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 20px;
+  color: #2ebce8;
 }
