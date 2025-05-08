@@ -20,7 +20,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .buttonContent a {
@@ -29,4 +29,11 @@
   padding: 10px 20px;
   font-size: 20px;
   color: #2ebce8;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .buttonContent {
+    margin-top: 50px;
+  }
 }
